@@ -1,0 +1,12 @@
+pandas
+numpy
+seaborn
+matplotlib
+geopandas
+statsmodels
+scikit-learn
+imbalanced-learn
+category-encoders
+xgboost
+scipy
+jupyter
